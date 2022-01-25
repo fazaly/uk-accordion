@@ -1,0 +1,17 @@
+body{
+  margin: 0;
+}
+.kasem{
+  color: red;
+}
+.uk-kasem{
+  width: 500px;
+  margin: 50px auto;
+}
+.uk-kasem-content{
+  text-align: justify;
+  background: #f5f5f5;
+  box-shadow: 5px 5px 10px lightslategray;
+  padding: 10px;
+  border-radius: 5px;
+}
